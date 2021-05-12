@@ -1,4 +1,4 @@
 # reviewsapp
 
 See Fake Reviews at 
-https://Abhishek-init.github.io/reviewapp
+https://Abhishek-init.github.io/reviewsapp
